@@ -1,0 +1,41 @@
+@font-face {
+    font-family: "TT Hoves Pro";
+    src: url("/public/font/TTHovesPro/TTHovesProLight.ttf")
+        format("opentype");
+    font-weight: 200;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "TT Hoves Pro";
+    src: url("/public/font/TTHovesPro/TTHovesProRegular.ttf")
+        format("opentype");
+    font-weight: 400;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "TT Hoves Pro";
+    src: url("/public/font/tt_hoves_pro/TT\ Hoves\ Pro\ Trial\ Expanded\ DemiBold.ttf")
+        format("opentype");
+    font-weight: 600;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "TT Hoves Pro";
+    src: url("/public/font/TTHovesPro/TTHovesProDemiBold.ttf")
+        format("opentype");
+    font-weight: 700;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "TT Hoves Pro";
+    src: url("/public/font/tt_hoves_pro/TT\ Hoves\ Pro\ Trial\ Expanded\ Bold.ttf")
+        format("opentype");
+    font-weight: 900;
+    font-style: normal;
+}
+  
+  

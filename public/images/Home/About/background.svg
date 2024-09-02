@@ -1,0 +1,62 @@
+<svg
+  viewBox="0 0 1552 1586"
+  fill="none"
+  xmlns="http://www.w3.org/2000/svg"
+>
+  <defs>
+    <filter
+      id="filter0_f_1028_2289"
+      x="70.6"
+      y="35.5961"
+      width="1481.3"
+      height="1549.8"
+      filterUnits="userSpaceOnUse"
+      color-interpolation-filters="sRGB"
+    >
+      <feFlood flood-opacity="0" result="BackgroundImageFix" />
+      <feBlend
+        mode="normal"
+        in="SourceGraphic"
+        in2="BackgroundImageFix"
+        result="shape"
+      />
+      <feGaussianBlur
+        stdDeviation="201.2"
+        result="effect1_foregroundBlur_1028_2289"
+      />
+    </filter>
+    <filter
+      id="filter1_f_1028_2289"
+      x="0.600006"
+      y="-1.4039"
+      width="1348.8"
+      height="1403.8"
+      filterUnits="userSpaceOnUse"
+      color-interpolation-filters="sRGB"
+    >
+      <feFlood flood-opacity="0" result="BackgroundImageFix" />
+      <feBlend
+        mode="normal"
+        in="SourceGraphic"
+        in2="BackgroundImageFix"
+        result="shape"
+      />
+      <feGaussianBlur
+        stdDeviation="201.2"
+        result="effect1_foregroundBlur_1028_2289"
+      />
+    </filter>
+  </defs>
+  <g filter="url(#filter0_f_1028_2289)">
+    <path
+      d="M1149.5 810.496C1149.5 1016.22 982.726 1183 777 1183C571.274 1183 473 1056.22 473 850.496C473 644.77 571.274 437.996 777 437.996C982.726 437.996 1149.5 604.77 1149.5 810.496Z"
+      fill="#EB00FF"
+    />
+  </g>
+  <g filter="url(#filter1_f_1028_2289)">
+    <path
+      d="M947 700.496C947 865.905 812.891 999.996 647.458 999.996C482.026 999.996 403 898.066 403 732.657C403 567.248 482.026 400.996 647.458 400.996C812.891 400.996 947 535.087 947 700.496Z"
+      fill="#FF00A6"
+    />
+  </g>
+</svg>
